@@ -1,4 +1,4 @@
-1)nombre d'amour
+
 prenoms = input().split(" ")
 nombres = [0] * 2
 for idPrenom in range(2):
