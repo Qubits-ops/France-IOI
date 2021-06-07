@@ -1,4 +1,4 @@
-4)inversion dictionnaire
+
 nbMots = int(input())
 couplesMots = [""] * nbMots
 for idCouple in range(nbMots):
