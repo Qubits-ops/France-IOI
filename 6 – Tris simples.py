@@ -1,4 +1,4 @@
-1)dechets polluants
+
 import sys
 nbValeurs = 0
 valeurs = []
